@@ -41,7 +41,9 @@
 
 ### Cara Menyelesaikan Konflik
 
-_[Isi kesepakatan tim tentang penyelesaian konflik]_
+1.Diskusi langsung secara terbuka dan kekeluargaan antar-anggota tim.
+2.Phase Lead fase berjalan memediasi musyawarah dan penyesuaian komitmen.
+3.Melaporkan ke dosen pengampu/asisten pendamping jika musyawarah tidak mencapai mufakat._
 
 ## Reflection
 
