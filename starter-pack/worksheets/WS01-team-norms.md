@@ -47,8 +47,12 @@
 
 ## Reflection
 
-- Bagaimana perasaan saya terhadap jadwal kepemimpinan fase ini?
-- Apa kekhawatiran utama saya bekerja dalam tim ini dan bagaimana saya akan mengatasinya?
+- Bagaimana perasaan saya terhadap jadwal kepemimpinan fase ini? 
+1.Adil dan Bijaksana [Raihan Khairul Putra Pratama], 
+2.Adil dalam pemberian rotasi ketua kelompok setiap tahapnya[Keyza Nada Afifa]
+- Apa kekhawatiran utama saya bekerja dalam tim ini dan bagaimana saya akan mengatasinya? 
+1.Mungkin di komunikasi terus untuk mengatasi nya bisa di bicarakan bersama kelompok [Raihan Khairul Putra Pratama], 
+2.miskomunikasi yang membuat tim terpecah belah dan cara mengatasinya dengan selalu menjawab ketika ada yang bertanya dan bertanya ketika tidak tau[Keyza Nada Afifa]
 
 ## Checklist
 
