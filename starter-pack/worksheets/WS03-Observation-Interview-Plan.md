@@ -23,7 +23,7 @@
 | Nama Unit Usaha Mitra (UMKM) | Café Basabasi |
 | Bidang Usaha & Produk Utama | Kuliner |
 | Alamat Lengkap & Jarak Kampus | Ki Ageng Pemanahan, Ragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, daerah Istimewa Yogyakarta, 55675. 450 meter dari Universitas Ahmad Dahlan. |
-| Nama & Peran Pemilik / Staf Mitra | Mas Jaka / Penanggung Jawab Kafe Basabasi cabang |
+| Nama & Peran Pemilik / Staf Mitra | Mas Jaka / Penanggung Jawab Kafe Basabasi cabang kragilan |
 | Jadwal Kunjungan Lapangan | Hari Jumat setalah Ashar |
 
 ### Protokol Etika & Komitmen Kerahasiaan Data
@@ -73,5 +73,3 @@ Seluruh anggota tim wajib memahami, mendiskusikan, dan menyetujui 4 pilar etika 
 - [ ] Data kuantitatif sederhana tercatat (menunjang CPMK-04 awal)
 
 ---
-
-**Status**: ⬜
