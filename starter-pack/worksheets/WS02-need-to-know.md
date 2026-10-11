@@ -49,7 +49,9 @@ untuk mengolah data menjadi informasi bermakna.
 ### Reflection
 
 - Pertanyaan mana yang paling sulit dijawab dan mengapa?
+1. Hambatan/keluhan operasional karena belum ada keluhan saat operasional sehingga tidak ada jawaban [Keyza Nada Afifa]
 - Informasi apa yang tidak boleh kami akses/tanyakan dan mengapa?
+1. Informasi pribadi karena terlalu personal dan tidak ada sangkut pautan dengan project [Keyza Nada Afifa]
 
 ### Checklist
 

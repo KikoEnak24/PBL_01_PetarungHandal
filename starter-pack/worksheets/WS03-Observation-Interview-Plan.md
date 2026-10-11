@@ -16,6 +16,7 @@
 ### Identifikasi Tim & Objek Observasi Lapangan
 
 | Elemen Informasi | Rincian Identitas Kelompok & Mitra |
+|---|---|
 | Nama Kelompok / Kelas | Petarung Handal |
 | Phase Lead 2 (Frame - M2) | Keyza Nada Afifa — 2638016081 |
 | Petugas Liaison (Narahubung) | |
@@ -72,3 +73,5 @@ Seluruh anggota tim wajib memahami, mendiskusikan, dan menyetujui 4 pilar etika 
 - [ ] Data kuantitatif sederhana tercatat (menunjang CPMK-04 awal)
 
 ---
+
+**Status**: ⬜
