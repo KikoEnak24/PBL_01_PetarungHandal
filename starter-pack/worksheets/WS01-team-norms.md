@@ -50,9 +50,15 @@
 - Bagaimana perasaan saya terhadap jadwal kepemimpinan fase ini? 
 1.Adil dan Bijaksana [Raihan Khairul Putra Pratama], 
 2.Adil dalam pemberian rotasi ketua kelompok setiap tahapnya[Keyza Nada Afifa]
+3.Berjalan sesuai dengan tanggung jawab dan sepenuhnya dapat di bagi tugasnya dengan baik [Refina Ambar Melati]
+4.Adil dan bertanggung jawab terhadap tugas[ Nayla Ayudya Putri]
+5.sangat baikk  [Diza Gadiza El-Said]
 - Apa kekhawatiran utama saya bekerja dalam tim ini dan bagaimana saya akan mengatasinya? 
 1.Mungkin di komunikasi terus untuk mengatasi nya bisa di bicarakan bersama kelompok [Raihan Khairul Putra Pratama], 
 2.miskomunikasi yang membuat tim terpecah belah dan cara mengatasinya dengan selalu menjawab ketika ada yang bertanya dan bertanya ketika tidak tau[Keyza Nada Afifa]
+3.Belum mendapatkan ide berdasarkan permasalahan yang tersedia pada usaha mitra yaitu dengan cara menyatukan sumber informasi hasil diskusi dengan mitra dan belajar mandiri lebih mendalam secara mandiri sebelum diskusi agar lebih menguasai materi[Refina Ambar Melati]
+4.Berbeda pendapat dalam mengerjakan tugas,dibicarakan secara baik baik[Nayla ayudya putri]
+5.Tidak saling membantu[Diza Gadiza el-said] 
 
 ## Checklist
 
