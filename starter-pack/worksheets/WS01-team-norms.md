@@ -16,6 +16,14 @@
 
 ## Workspace
 
+## Identifikasi Kelompok & objek Studi
+
+- Nama kelompok: Petarung Handal
+- Kelas/Pararel: B
+- Objek Studi Terpilih: Cafe Basabasi
+- Bidang Usaha: Cafe
+- Lokasi Mitra: Ki Ageng Pemanahan, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istemawa Yogyakarta 55675.
+
 ### Jadwal Rotating Phase Lead (sementara)
 
 | Fase | Minggu | Phase Lead | Tanggung Jawab Utama Coverage |
