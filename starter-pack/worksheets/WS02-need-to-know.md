@@ -75,7 +75,7 @@ Learning Moment: **Discover (Minggu 1\)**
     
  1. > \[Target solusi karena kafe basabasi sudah termasuk kafe besar jadi sudah terstruktur(Raihan Khairul Putra Pratama)\]
  2. > \[Hambatan/keluhan operasional karena belum ada keluhan saat operasional sehingga tidak ada jawaban [Keyza Nada Afifa]\]
- 3. > \[...\]
+ 3. > \[Hambatan/keluhan semua sistem hampir berjalan dengan baik sehingga susah untuk mencari celah untuk memperbaiki masalah(nayla ayudya putri)\]
  4. > \[...\]
  5. > \[...\]
     
@@ -84,7 +84,7 @@ Learning Moment: **Discover (Minggu 1\)**
  1. > \[Angka angka yang bersifat prifat(Raihan Khairul Putra Pratama)\]
  2. > \[Informasi pribadi karena terlalu personal dan tidak ada sangkut pautan dengan project [Keyza Nada Afifa]\]
  3. > \[Data-data privat kafe tersebut(Diza Gadiza El-Said)\]
- 4. > \[...\]
+ 4. > \[Rekapitulasi bulanan karena terlalu privasi untuk dipertanyakan dan dijawab(nayla ayudya putri)\]
  5. > \[...\] 
 
 
