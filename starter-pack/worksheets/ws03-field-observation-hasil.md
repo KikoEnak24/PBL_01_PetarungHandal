@@ -1,37 +1,33 @@
-## **Hasil Wawancara Terarah**
+# **Hasil Wawancara Terarah** #
 
 | No | Pertanyaan Wawancara | Responden | Hasil/Jawaban |
-| :---: | :---- | :---- | :---- |
-| **1** |  |  |  |
-| **2** |  |  |  |
-| **3** |  |  |  |
-| **4** |  |  |  |
-| **5** |  |  |  |
-| **6** |  |  |  |
-| **7** |  |  |  |
-| **8** |  |  |  |
-| **9** |  |  |  |
-| **10** |  |  |  |
+| :---- | :---- | :---- | :---- |
+| **1** | Bagaimana alur pencatatan harian di usaha Bapak/ibu mengalir sejak pelanggan datang? | Software Kasir (POS): Kafe menggunakan sistem software kasir (seperti ESB) untuk menangani pencatatan pesanan, percetakan nota, rekapitulasi penjualan, hingga pengawasan operasional per shift (pagi, sore, dan malam). Percetakan Nota: Pencetakan nota transaksi dilakukan menggunakan printer Bluetooth.  | Sistem pencatatan pesanan dan kasir kafe telah menggunakan software POS ESB yang terintegrasi dengan printer Bluetooth untuk operasional per shift.Namun,rekapitulasi penjualan masih dilakukan double input ke Microsoft Excel dan diintegrasikan antar cabang 8 via OneDrive. Proses rekap harian  memakan waktu 15-20 menit,sehingga belum sepenuhnya efisien dan otomatis.  |
+| **2** | Media apa yang digunakan saat ini untuk mencatat pesanan,nota,dan rekapitulasi penjualan? | Perangkat Operasional: Menggunakan tab kasir, Tab khusus rekapan, Tape/Tab pengontrol volume musik, printer nota, serta pagar/remote pemanggil pelanggan. Jaringan Wi-Fi: Menggunakan penyedia layanan Ringnet (hasil kerja sama dengan rekan pemilik kafe). Software dan Excel membantu mempercepat rekapitulasi data secara akurat. Namun, Excel tidak dapat mendeteksi jumlah fisik uang tunai (cash) yang dipegang. Oleh karena itu, penghitungan uang cash dilakukan secara manual menggunakan kalkulator. | Perangkat operasional menggunakan Tab, digunakan untuk semua keperluan toko. Toko menyediakan Wi-Fi yang dapat di akses oleh seluruh pengunjung toko,serta memasang CCTV di beberapa tempat untuk pendukung keamanan  |
+| **3** | Hambatan atau kendala apa yang paling sering dialami saat melayani pelanggan dijam jam sibuk? | Waktu Jam Sibuk: Lonjakan pengunjung biasanya terjadi mulai pukul 18.30 ke atas (terutama pukul 20.00 ke atas). Kendala Operasional: Pada jam sibuk sering terjadi keterlambatan penyajian pesanan karena jumlah staf/karyawan tergolong terbatas (press). Solusi Penanganan: untuk pesanan minuman, kafe memanfaatkan sistem remote/pagar pemanggil berbunyi agar pelanggan mengambil minumannya sendiri secara mandiri saat area sedang sibuk atau ada rapat. Untuk pesanan makanan, penyajian tetap diantar langsung oleh staf ke meja pelanggan.  | Lonjakan pengunjung biasanya terjadi mulai pukul 18:30 ke atas terutama pukul 20:00, menyebabkan keterlambatan penyajian pesanan karen jumlah staf tergolong terbatas ,Solusi kafe memanfaatkan sistem remote pemanggil berbunyi agar pelanggan mengambil minumnya sendiri secara mandiri saat area sedang sibuk, untuk makanan penyajian tetap diantar langsung.  |
+| **4** | Bagaimana cara Bapak/Ibu?Ibu memantau sisa stok barang/bahan baku dan menentukan kapan harus memesan ulang? | Sistem Pemantauan Stok: Pemantauan stok bahan harian tidak menggunakan aplikasi khusus, melainkan dikontrol langsung oleh pengelola. Prosedur Pencocokan Stok: Pencocokan dilakukan dengan membandingkan jumlah order barang yang masuk (misalnya air mineral atau susu) dengan data barang terjual di software kasir. Toleransi Selisih: Selisih penggunaan bahan harian tergolong tipis dan wajar karena adanya variasi takaran pemakaian.  |  Untuk memantau stok bahan harian sudah menggunakan aplikasi khusu sehingga semua keperluan hari sudah bisa langsung terdeteksi dari pusat |
+| **5** | Berapa lama waktu yang dihabiskan setiap malam untuk merekap total pendapatan harian dan mencocokkannya dengan uang tunai***?***   | Rekapitulasi harian tiap malam membutuhkan waktu sekitar 15 hingga 20 menit. Software dan Excel membantu mempercepat rekapitulasi data pasti. Namun, Excel tidak dapat mendeteksi jumlah fisik uang tunai (cash) yang dipegang. Oleh karena itu, penghitungan uang cash dilakukan secara manual menggunakan kalkulator.  | Rekapitulasi harian membutuhkan waktu paling lambat 20 menit, Software dan Excel membantu mempercepat rekapitulasi data pasti,untuk uang cash dihitung secara manual, |
+| **6** | Perangkat elektronik apa saja yang dimiliki dan aktif digunakan di kafe saat ini?   | Perangkat Operasional: Menggunakan Tab kasir, Tab khusus rekapan, Tape/Tab pengontrol volume musik, printer nota, serta pagar/remote pemanggil pelanggan. Jaringan Wi-Fi: Menggunakan penyedia layanan Ringnet (hasil kerja sama dengan rekan pemilik kafe). Peralatan Pendukung & Keamanan: Dilengkapi dengan CCTV untuk pemantauan kondisi kafe dan memantau pergerakan karyawan dan keamanan, kipas angin, freezer/sok pendingin, dan sound system.  | Menggunakan beberapa alat elektronik untuk keperluan kafe . Menggunakan tablet untuk mengakses software dan Excel dalam mengelola penjualan setiap harinya. |
+| **7** | Jika dibangunkan alat bantu sistem informasi sederhana, kemampuan utama apa yang paling Bapak/Ibu harapkan?  | Kondisi Sistem Saat Ini: Pengelola merasa belum membutuhkan software atau alat baru karena seluruh operasional penjualan dan pengawasan sudah ter-backup satu pintu melalui software kasir dan CCTV. Kendala Utama (Human Error): Masalah utama yang sering timbul adalah faktor kesalahan manusia (human error), seperti kesalahan pemberian kembalian, salah input data, atau kelalaian staf dalam pembuatan minuman (misalnya kemanisan atau tidak sesuai SOP). Pengelola menilai kendala human error tidak bisa diselesaikan hanya dengan penambahan software | Untuk saat ini café belum membutuhkan software atau alat baru karena seluruh operasional penjualan dan pengawasan sudah ter-backup satu pintu melalui software kasir dan CCTV. |
 
-## 
+# **Catatan Observasi Alur Kerja As-Is & Data Kuantitatif** #
 
-## **Catatan Observasi Alur Kerja As-Is & Data Kuantitatif**
-
-### **A. Pemetaan Alur Transaksi As-Is (Kronologis Kronik)**
+## **A. Pemetaan Alur Transaksi As-Is (Kronologis Kronik)** ##
 
 **Jika perlu gambarkan dalam bentuk diagram urutan/tahapan proses yang menggambarkan transaksi yang diamati.**
 
-* **Langkah 1 (Input Pesanan)**: \[ Catat bagaimana kasir menerima pesanan dan menuliskan nota \]  
-* **Langkah 2 (Kalkulasi & Pembayaran)**: \[ Catat alat bantu hitung dan cara penerimaan uang/kembalian \]  
-* **Langkah 3 (Penyerahan Barang)**: \[ Catat alur penyerahan produk ke pelanggan \]  
-* **Langkah 4 (Pencatatan Stok & Rekap)**: \[ Catat alur pengisian buku stok dan rekapitulasi harian \]
+* **Langkah 1 (Input Pesanan)**: Kasir menerima pesanan menggunakan hardware berupa tablet.  
+* **Langkah 2 (Kalkulasi & Pembayaran)**: Kalkulasi menggunakan aplikasi kasir dan struk dicetak dengan printer. Uang tunai dikembalikan, QRIS lewat pemindaian kode, dan transfer lewat cek bukti sukses.   
+* **Langkah 3 (Penyerahan Barang)**: waiter mengantarkan pesanan ke meja pembeli.  
+* **Langkah 4 (Pencatatan Stok & Rekap)**: pencatatan stok langsung oleh pj cabang kafe tersebut dan rekapitulasi menggunakan satu excel yang terhubung dengan semua cabang dan langsung dipantau oleh pimpinan pusat.
 
-**Lembar observasi** (hal yang diamati):
+
+## **Lembar observasi** (hal yang diamati): ##
 
 | Aspek yang Diamati | Temuan di Lapangan (Evidence) |
-| ----- | ----- |
-| Alur pelayanan utama |  |
-| Titik antrean/hambatan |  |
-| Data/angka yang terlihat (harga, jumlah, waktu) |  |
-| Peran orang yang terlibat |  |
+| :---- | :---- |
+| Alur pelayanan utama | Scan kode QR di meja pakai HP, lihat menu dan harga di web/app, pesan dan isi catatan, pilih metode bayar : Qris atau cash di akhir, pesan otomatis bawa ke kasir, tunggu makanan diantar,pesanan otomatis masuk ke kasir, proses pesanan, makanan selesai lalu diantar. |
+| Titik antrian/hambatan | Tidak ada |
+| Data/angka yang terlihat (harga, jumlah, waktu) | Roti bakar 1 dengan harga 13.000,00 waktu proses dari pesan hingga makanan tiba di meja 15 menit 19 detik dan es teh satu dengan harga 5000 waktu proses dari pesan hingga dating 1 menit 24 detik |
+| Peran orang yang terlibat | Kasir, waites, chef, pelanggan |
 
