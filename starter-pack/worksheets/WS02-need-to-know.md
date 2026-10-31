@@ -73,18 +73,18 @@ Learning Moment: **Discover (Minggu 1\)**
 
 * **Pertanyaan Need-to-Know mana yang menurut tim paling sulit dijawab dan mengapa?**  
     
- 1. > \[Target solusi karena kafe basabasi sudah termasuk kafe besar jadi sudah terstruktur(Raihan Khairul Putra Pratama)\]
+ 1. > \[Target solusi karena kafe basabasi sudah termasuk kafe besar jadi sudah terstruktur [Raihan Khairul Putra Pratama]\]
  2. > \[Hambatan/keluhan operasional karena belum ada keluhan saat operasional sehingga tidak ada jawaban [Keyza Nada Afifa]\]
- 3. > \[Hambatan/keluhan semua sistem hampir berjalan dengan baik sehingga susah untuk mencari celah untuk memperbaiki masalah(nayla ayudya putri)\]
+ 3. > \[Hambatan/keluhan semua sistem hampir berjalan dengan baik sehingga susah untuk mencari celah untuk memperbaiki masalah[nayla ayudya putri]\]
  4. > \[apakah masih ada hal hal dalam proses bisnis yang berjalan masih manual contohnya saat rekap harian, pemmbelian stok bahan baku dll? [Refina Ambar Melati]\]
- 5. > \[Kebutuhan kafe terhadap sistem mereka, karena sulit menemukan celah\Diza Gadiza El-Said\]
+ 5. > \[Kebutuhan kafe terhadap sistem mereka, karena sulit menemukan celah [Diza Gadiza El-Said]\]
     
 * **Informasi atau data apa yang TIDAK boleh kami akses / tanyakan kepada mitra demi menjaga etika dan privasi?**  
     
- 1. > \[Angka angka yang bersifat prifat(Raihan Khairul Putra Pratama)\]
- ommit 2. > \[Informasi pribadi karena terlalu personal dan tidak ada sangkut pautan dengan project [Keyza Nada Afifa]\]
- 3. > \[Data-data privat kafe tersebut(Diza Gadiza El-Said)\]
- 4. > \[Rekapitulasi bulanan karena terlalu privasi untuk dipertanyakan dan dijawab(nayla ayudya putri)\]
+ 1. > \[Angka angka yang bersifat prifat [Raihan Khairul Putra Pratama]\]
+ 2. > \[Informasi pribadi karena terlalu personal dan tidak ada sangkut pautan dengan project [Keyza Nada Afifa]\]
+ 3. > \[Data-data privat kafe tersebut [Diza Gadiza El-Said]\]
+ 4. > \[Rekapitulasi bulanan karena terlalu privasi untuk dipertanyakan dan dijawab [nayla ayudya putri]\]
  5. > \[Informasi yang bersifat rahasia mungkin seperti pasword nomor rekening milik cafe, dan akun e kasir dari cafe itu yang sudah berjalan, karna itu adalah pertayaan yang dapat mrnghancurksn kepercayaan dari mitra [Refina Ambar Melati]\] 
 
 
