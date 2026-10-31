@@ -15,7 +15,7 @@
 - **Jenis usaha / layanan**: [ Kafe ]
 - **Lokasi**: [Jl. Ki Ageng Pemanahan,Kragilan,Tamanan,Kec. Banguntampan, Kabupaten Bantul, Daerah Istimewa Yogyakarta]
 - **Deskripsi singkat operasional**: [Kafe yang menjual kopi, minuman, dan makanan ringan untuk pelanggan, dilayani barista dan kasir. Beroperasi setiap hari, sekitar pukul 08.00-02.00.]
-- **Narahubung / pemilik**: [Jaka, Penanggung jawab Kafe Basabasi cabang kragilan, 62 851-5077-4814]
+- **Narahubung / pemilik**: [Jakara, Penanggung jawab Kafe Basabasi cabang kragilan, 62 851-5077-4814]
 
 ## 2. Deskripsi Masalah Utama
 
@@ -40,7 +40,9 @@
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
-- Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+- nama nama karyawan di cafe tersebut
+- jam masuk dan pulang karyawan
+- sistem absensi yang sedang berjalan
 
 ## 6. Daftar Rujukan / Bukti
 
