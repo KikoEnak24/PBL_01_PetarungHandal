@@ -64,63 +64,57 @@ Petakan solusi Anda ke dalam 4 lapisan arsitektur terintegrasi:
 **5\. PSEUDOCODE TERSTRUKTUR (INDEPENDEN TEKNOLOGI)**  
 Tuliskan kode semu terstruktur (*pseudocode*) untuk modul logika utama solusi Anda:
 
-ALGORITMA\_Presensi\_PEGAWAI
+ALGORITMA_PRESENSI_PEGAWAI
 
-KAMUS DATA:  
-    username		: STRING  
-    password		: STRING  
-    selfie		    : IMAGE  
-    lokasi\_GPS		: STRING  
-    waktu\_server	: DATETIME  
-    izin\_valid		: BOOLEAN  
-    radius\_valid	: BOOLEAN  
-    status\_valid	: BOOLEAN  
-    Presensi\_valid	: BOOLEAN  
-    hasil\_cek		: BOOLEAN
+KAMUS DATA:
+    username		: STRING
+    password		: STRING
+    selfie		    : IMAGE
+    lokasi_GPS 		: STRING
+    waktu_server	: DATETIME
+    radius_valid	: BOOLEAN
+    Presensi_valid	: BOOLEAN
+    hasil_cek		: BOOLEAN
 
 ALUR LOGIKA:
 
 START
 
-    READ username  
+    READ username
     READ password
 
-    IF ValidasiAkun(username, password) \= TRUE THEN
+    IF ValidasiAkun(username, password) = TRUE THEN
 
-        REPEAT  
-            READ selfie  
-            READ lokasi\_GPS
+        REPEAT
+            READ selfie
+            READ lokasi_GPS
 
-            izin\_valid \= ValidasiIzin(username)  
-            radius\_valid \= ValidasiRadius(lokasi\_GPS)  
-            status\_valid \= ValidasiStatus(username)
+            radius_valid = ValidasiRadius(lokasi_GPS)
 
-            Presensi\_valid \= izin\_valid AND  
-                            radius\_valid AND  
-                            status\_valid
+            Presensi_valid = radius_valid AND
 
-            IF Presensi\_valid \= FALSE THEN  
-                PRINT "Presensi tidak valid"  
-                PRINT "Silakan ulangi Presensi sesuai pesan"  
+            IF Presensi_valid = FALSE THEN
+                PRINT "Presensi tidak valid"
+                PRINT "Silakan ulangi Presensi sesuai pesan"
             ENDIF
 
-        UNTIL Presensi\_valid \= TRUE
+        UNTIL Presensi_valid = TRUE
 
-        waktu\_server \= AmbilWaktuServer()
+        waktu_server = AmbilWaktuServer()
 
-        SIMPAN selfie, lokasi\_GPS, waktu\_server
+        SIMPAN selfie, lokasi_GPS, waktu_server
 
-        hasil\_cek \= PeriksaPresensi(selfie, lokasi\_GPS)
+        hasil_cek = PeriksaPresensi(selfie, lokasi_GPS)
 
-        IF hasil\_cek \= TRUE THEN  
-            PRINT "Presensi sesuai dan berhasil"  
-        ELSE  
-            PRINT "Tandai Presensi bermasalah"  
-            PRINT "Lakukan klarifikasi ke PJ Cabang"  
+        IF hasil_cek = TRUE THEN
+            PRINT "Presensi sesuai dan berhasil"
+        ELSE
+            PRINT "Tandai Presensi bermasalah"
+            PRINT "Lakukan klarifikasi ke PJ Cabang"
         ENDIF
 
-    ELSE  
-        PRINT "ERROR: Login gagal\!"  
+    ELSE
+        PRINT "ERROR: Login gagal!"
     ENDIF
 
 END
