@@ -19,15 +19,15 @@
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [ Sistem absensi yang belum jelas sehingga memunkinkan untuk karyawan tidak datang diwaktu yang telah disesuaikan ]
+- **Masalah utama**: [ Sistem presensi yang belum jelas sehingga memunkinkan untuk karyawan tidak datang diwaktu yang telah disesuaikan ]
 - **Pihak yang terdampak**: [ Penanggung jawab kafe, Karyawan,dan pelanggan ]
 - **Frekuensi / keparahan**: [ Terjadi beberapa kali, terutama pada shift pagi ]
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: [ Sistem absensi berbasis barcode/QR code: karyawan melakukan scan saat masuk dan pulang, data kehadiran tersimpan otomatis dengan waktu, serta rekap kehadiran harian dan bulanan yang bisa dilihat penanggung jawab kafe. ]
+- **Diselesaikan dalam proyek ini**: [ Sistem presensi berbasis GPS dan foto selfie.Pegawai melakukan presensi lewat smartphone, sistem memvalidasi radius lokasi secara otomatis, lalu menyimpan foto koordinat GPS dan waktu server. PJ cabang memverifikasi presensi dan rekap kehadiran harian maupun bulanan tersusun otomatis. ]
 - **Tidak diselesaikan (dan alasan)**: [ Human eror,yaitu kesalahan yang berasal dari faktor karyawan dan bukan dari sistem yang telah terstruktur,seperti salah memasukan takaran cabe. ]
-- **Asumsi yang dipakai**: [ Setiap karyawan punya barcode sendiri. Ada satu alat untuk scan di kafe. Alat tersebut tersambung ke internet. Jadwal shift sudah ditentukan oleh penanggung jawab. Karyawan scan langsung di kafe ]
+- **Asumsi yang dipakai**: [ Setiap karyawan punya akun sendiri dan smartphone dengan kamera serta GPS aktif. Perangkat tersambung ke internet.Lokasi dan radius yang sudah ditetapkan oleh penanggung jawab. Jadwal shift sudah ditentukan oleh penanggung jawab dan pegawai melakukan presensi langsung di kafe. ]
 
 ## 4. Data Kuantitatif Pendukung
 
@@ -42,7 +42,7 @@
 
 - nama nama karyawan di cafe tersebut
 - jam masuk dan pulang karyawan
-- sistem absensi yang sedang berjalan
+- sistem presensi yang sedang berjalan
 
 ## 6. Daftar Rujukan / Bukti
 
