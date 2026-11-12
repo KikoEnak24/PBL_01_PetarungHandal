@@ -1,7 +1,7 @@
 # D2 — System & Solution Design
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Kafe basabasi]
+**Tim**: [Petarung handal] | **Tanggal**: [11/11/2026] | **Versi**: [v1.0]
 **Template**: TPL-02
 
 > **Petunjuk**: Hapus teks dalam `[...]` setelah diisi.
@@ -13,9 +13,9 @@
 
 | # | User Story | Prioritas |
 |---|---|---|
-| 1 | Sebagai [peran], saya ingin [fitur] sehingga [manfaat] | [Tinggi/Sedang/Rendah] |
-| 2 | | |
-| 3 | | |
+| 1 | Sebagai pegawai kafe, saya ingin Mengetahui pekerjaan yang harus dilakukan selama bekerja di kafe tersebut sehingga Pegawai kafe tidak melakukan kesalahan yang sama dan terulang | [Tinggi/Sedang/Rendah] |
+| 2 | Sebagai Petugas inventaris, saya ingin mencatat pemasukan dan pengeluaran bahan-bahan di kafe sehingga memudahkan laporan bulanan kafe dan dapat mengetahui apakah terdapat barang  yang kadaluarsa atau hilang | |
+| 3 | Sebagai manager kafe saya ingin memantau proses penjualan kafe sehingga dapat memantau kinerja karyawan dan memastikan target penjualan kafe tercapai dan kinerja kariyawan lebih terpantau dengan jelas | |
 | 4 | *(tambah jika perlu)* | |
 
 ## 2. Kriteria Penerimaan
