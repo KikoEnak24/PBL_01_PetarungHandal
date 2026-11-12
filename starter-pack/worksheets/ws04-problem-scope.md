@@ -52,15 +52,15 @@ Untuk mencegah terjadinya pembengkakan fitur (*Scope Creep*) yang membahayakan p
 
  │   \[ IN-SCOPE: Fitur yang Akan Dibangun \]                                                │
 
- │   1\. Absensi karyawan dengan scan barcode saat masuk dan pulang sesuai shift.                          │
+ │   1\. Verifikasi foto berbasis GPS                          │
 
  │   2\. Pencatatan tanggal dan jam kehadiran secara otomatis.               │
 
- │   3\. Pencetakan rekap kehadiran harian dan bulanan untuk pemilik.          │
+ │   3\. Pencetakan rekap kehadiran harian dan bulanan.          │
 
- │                                                                                                                                        │
+ │                                                                                                                                     │
 
- │  ───────────────────────────────────────────                            │
+ │───────────────────────────────────────────                            │
 
  │                                                                                                                                        │
 
@@ -78,8 +78,8 @@ Untuk mencegah terjadinya pembengkakan fitur (*Scope Creep*) yang membahayakan p
 
 | No | Modul / Fitur Sistem | Status Cakupan (*In-Scope / Out-of-Scope*) | Alasan Pertimbangan Kelayakan (O'Brien) |
 | :---- | :---- | :---- | :---- |
-| **1** | Scan Barcode Absen Masuk & Pulang  | **IN-SCOPE** | Kelayakan Operasional: Menjadi solusi utama karena karyawan tidak bisa lagi memakai foto lama untuk absen.   |
-| **2** | Pencatatan Jam Kehadiran Otomatis  | **IN-SCOPE** | Kelayakan Teknis: Bisa dibuat dengan mengambil jam dan tanggal dari sistem secara langsung saat barcode di-scan.  |
+| **1** | Verifikasi foto berbasis GPS  | **IN-SCOPE** | Kelayakan Operasional: Menjadi solusi utama karena karyawan tidak bisa lagi memakai foto lama untuk absen.     |
+| **2** | Pencatatan Jam Kehadiran Otomatis  | **IN-SCOPE** | Kelayakan Teknis: Pengambilan foto secara langsung dengan menampilkan watermark tanggal dan jam secara real-time.  |
 | **3** | Rekap Kehadiran Harian & Bulanan  | **IN-SCOPE** | Kelayakan Ekonomi: Pemilik tidak perlu lagi mengecek foto satu per satu di grup WhatsApp, sehingga menghemat waktu.  |
 | **4** | Absensi Sidik Jari / Pengenalan Wajah  | **OUT-OF-SCOPE** | Kelayakan Ekonomi: Perlu membeli alat tambahan, sedangkan proyek ini hanya berjalan 1 semester dengan anggaran terbatas.   |
 | **5** | Multi-Branch / Banyak Cabang | **OUT-OF-SCOPE** | Kafe mitra punya banyak cabang, tetapi kerja sama proyek ini hanya dengan 1 cabang, jadi sistem hanya dibuat untuk cabang tersebut.   |
